@@ -1,0 +1,21 @@
+.darslar {
+    padding: 100px 20px;
+}
+
+.video {
+    padding-top: 20px;
+}
+
+.link-youtube {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.link-youtube a:hover {
+    color:#efb6df;
+}
+
+.link-youtube.active a{
+    color: #efb6df;
+}
